@@ -1,3 +1,6 @@
+# TODO:
+# - prepare desktop entry
+# - compile python files
 Summary:	Graphical interface to the shell
 Summary(pl):	Graficzna nak³adka na liniê poleceñ
 Name:		onefinger
@@ -9,7 +12,6 @@ Group:		Applications/Shells
 Source0:	http://dl.sourceforge.net/%{name}/%{name}-%{version}.tar.gz
 # Source0-md5:	1d05f2c688f9abe3a1771b2c0f0f5bb8
 BuildArch:	noarch
-BuildRequires:	ImageMagick
 Requires:	python-PyQt
 Buildroot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
