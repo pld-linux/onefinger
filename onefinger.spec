@@ -20,6 +20,14 @@ and "pretty", OneFinger does not attempt to hide the underlying CLI
 language: instead, it lets you compose CLI commands with the mouse
 (and only one finger!).
 
+%description -l pl
+Onefinger jest przeznaczonym do ogólnego u¿ytku GUI(Graficznym
+Interfejsem U¿ytkownika) zbudowanym na podstawie lini poleceñ. W
+przeciwieñstwie do wiêkszo¶ci graficznych nak³adek, OneFinger nie
+próbuje ukrywaæ mo¿liwo¶ci lini poleceñ, przeciwnie, pozwala wybraæ
+komendy i prze³±czniki programów korzystaj±c z myszy(tylko jednym
+palcem!)
+
 %prep
 %setup -q
 
