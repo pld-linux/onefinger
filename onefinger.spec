@@ -26,7 +26,7 @@ Interfejsem U¿ytkownika) zbudowanym na podstawie lini poleceñ. W
 przeciwieñstwie do wiêkszo¶ci graficznych nak³adek, OneFinger nie
 próbuje ukrywaæ mo¿liwo¶ci lini poleceñ, przeciwnie, pozwala wybraæ
 komendy i prze³±czniki programów korzystaj±c z myszy(tylko jednym
-palcem!)
+palcem!).
 
 %prep
 %setup -q
