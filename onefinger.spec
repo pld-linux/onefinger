@@ -12,7 +12,6 @@ Source0:	http://dl.sourceforge.net/onefinger/%{name}-core_%{version}.tar.gz
 # Source0-md5:	449da761602e3a8145f8143ea3c262bd
 URL:		http://onefinger.sourceforge.net/
 Requires:	python-PyKDE
-Requires:	python-PyQt
 BuildArch:	noarch
 Buildroot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
