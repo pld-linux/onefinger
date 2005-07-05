@@ -4,12 +4,12 @@
 Summary:	Graphical interface to the shell
 Summary(pl):	Graficzna nak³adka na liniê poleceñ
 Name:		onefinger
-Version:	3.0
+Version:	3.4
 Release:	1
 License:	GPL
 Group:		Applications/Shells
-Source0:	http://dl.sourceforge.net/onefinger/%{name}-core_%{version}.tar.gz
-# Source0-md5:	449da761602e3a8145f8143ea3c262bd
+Source0:	http://dl.sourceforge.net/onefinger/%{name}_core-%{version}.tar.gz
+# Source0-md5:	2c4055256c9c4871126f9dd389af3234
 URL:		http://onefinger.sourceforge.net/
 Requires:	python-PyKDE
 BuildArch:	noarch
@@ -31,7 +31,7 @@ komendy i prze³±czniki programów korzystaj±c z myszy(tylko jednym
 palcem!).
 
 %prep
-%setup -q -n %{name}-core_%{version}
+%setup -q -n %{name}_core-%{version}
 
 %install
 rm -rf $RPM_BUILD_ROOT
