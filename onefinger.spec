@@ -2,7 +2,7 @@
 # - prepare desktop entry
 # - compile python files
 Summary:	Graphical interface to the shell
-Summary(pl):	Graficzna nak³adka na liniê poleceñ
+Summary(pl.UTF-8):   Graficzna nakÅ‚adka na liniÄ™ poleceÅ„
 Name:		onefinger
 Version:	4.0
 Release:	1
@@ -22,12 +22,12 @@ and "pretty", OneFinger does not attempt to hide the underlying CLI
 language: instead, it lets you compose CLI commands with the mouse
 (and only one finger!).
 
-%description -l pl
-Onefinger jest przeznaczonym do ogólnego u¿ytku GUI (Graficznym
-Interfejsem U¿ytkownika) zbudowanym na podstawie linii poleceñ. W
-przeciwieñstwie do wiêkszo¶ci graficznych nak³adek, OneFinger nie
-próbuje ukrywaæ mo¿liwo¶ci linii poleceñ, przeciwnie, pozwala wybraæ
-komendy i prze³±czniki programów korzystaj±c z myszy(tylko jednym
+%description -l pl.UTF-8
+Onefinger jest przeznaczonym do ogÃ³lnego uÅ¼ytku GUI (Graficznym
+Interfejsem UÅ¼ytkownika) zbudowanym na podstawie linii poleceÅ„. W
+przeciwieÅ„stwie do wiÄ™kszoÅ›ci graficznych nakÅ‚adek, OneFinger nie
+prÃ³buje ukrywaÄ‡ moÅ¼liwoÅ›ci linii poleceÅ„, przeciwnie, pozwala wybraÄ‡
+komendy i przeÅ‚Ä…czniki programÃ³w korzystajÄ…c z myszy(tylko jednym
 palcem!).
 
 %prep
