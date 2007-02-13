@@ -2,7 +2,7 @@
 # - prepare desktop entry
 # - compile python files
 Summary:	Graphical interface to the shell
-Summary(pl.UTF-8):   Graficzna nakładka na linię poleceń
+Summary(pl.UTF-8):	Graficzna nakładka na linię poleceń
 Name:		onefinger
 Version:	4.0
 Release:	1
