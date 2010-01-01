@@ -13,7 +13,7 @@ Source0:	http://dl.sourceforge.net/onefinger/%{name}_core-%{version}.tar.gz
 URL:		http://onefinger.sourceforge.net/
 Requires:	python-PyKDE
 BuildArch:	noarch
-Buildroot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
+BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 Onefinger is a general-purpose GUI (graphical user interface) built on
